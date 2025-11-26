@@ -20,17 +20,16 @@ Sou um entusiasta da tecnologia em transição para a área de desenvolvimento. 
 ## 🛠 Stack Tecnológica
 
 ### **Back-end**
-- PHP (Básico)
-- MySQL (Básico)
+- PHP 
+- MySQL
 - Lógica de Programação
 
 ### **Front-end**
-- JavaScript (Básico)
-- TypeScript (Básico)
+- JavaScript 
+- TypeScript
 - CSS3
 - HTML5
 
 ### **Ferramentas e Outros**
 - Git & GitHub
-- Pacote Office
-- Inglês Intermediário (B1)
+- Inglês Intermediário (B2)
